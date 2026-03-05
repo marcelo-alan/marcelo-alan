@@ -34,8 +34,8 @@ Desenvolvedor focado em transformar ideias em soluções de software funcionais 
 ## 📊 Estatísticas do GitHub  
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelo-alan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-alan&layout=compact&theme=dracula&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcelo-alan&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcelo-alan&layout=compact&theme=dracula"/>
 </p>
 
 ---
@@ -46,5 +46,4 @@ Desenvolvedor focado em transformar ideias em soluções de software funcionais 
 💼 LinkedIn: [linkedin.com/in/marceloalan](https://www.linkedin.com/in/marceloalan)  
 
 ---
-
-✨ *“Cada linha de código é um passo a mais na minha evolução como desenvolvedor.”*  
+“Cada linha de código é um passo a mais na minha evolução como desenvolvedor.”*  
