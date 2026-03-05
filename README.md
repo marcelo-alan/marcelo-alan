@@ -1,4 +1,5 @@
-👨‍💻 Marcelo Alan | Software Developer
+Marcelo Alan 
+| Software Developer
 Sou um desenvolvedor apaixonado por transformar ideias em soluções funcionais e de alta qualidade. Minha trajetória é marcada pela participação ativa em eventos de tecnologia, onde aplico meus conhecimentos para resolver problemas reais e colaborar com outros profissionais da área.
 
 Estou em constante evolução, focado em boas práticas de programação, arquitetura de sistemas e no aprendizado de novas linguagens para entregar resultados eficientes.
