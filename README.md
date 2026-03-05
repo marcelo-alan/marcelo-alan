@@ -1,47 +1,53 @@
-Marcelo Alan 
-| Software Developer
-Sou um desenvolvedor apaixonado por transformar ideias em soluções funcionais e de alta qualidade. Minha trajetória é marcada pela participação ativa em eventos de tecnologia, onde aplico meus conhecimentos para resolver problemas reais e colaborar com outros profissionais da área.
+👨‍💻 Marcelo Alan | Software Developer
+<p align="left">
+<img src="https://img.shields.io/badge/Status-Em_Evolução-success?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Focus-Fullstack-blue?style=for-the-badge" />
+</p>
 
-Estou em constante evolução, focado em boas práticas de programação, arquitetura de sistemas e no aprendizado de novas linguagens para entregar resultados eficientes.
+Sou um desenvolvedor focado em transformar ideias em soluções funcionais e de alta qualidade. Minha trajetória é marcada pela participação ativa em eventos de tecnologia, onde aplico meus conhecimentos para resolver problemas reais e colaborar com a comunidade.
+
+Atualmente, busco aprimorar minhas habilidades técnicas e seguir as melhores práticas de mercado para entregar software eficiente e escalável.
 
 🚀 Tecnologias & Ferramentas
-🛠️ Linguagens & Frameworks
+Linguagens e Frameworks
+
 <p align="left">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=cs,python,js,ts,react,nodejs,html,css,mysql,git" />
 </a>
 </p>
 
-💻 Ferramentas & OS
+Ferramentas e Ambiente
+
 <p align="left">
-<a href="https://skillicons.dev">
+<a href="https://skillicons.dev)
 <img src="https://skillicons.dev/icons?i=vscode,figma,windows,linux" />
 </a>
 </p>
 
-📚 Evolução Contínua
-Atualmente, estou aprofundando meus conhecimentos em:
+📚 No Radar (Estudos Atuais)
+C# & Python: Aprofundando em Lógica e Estrutura de Dados.
 
-Lógica de Programação & Estrutura de Dados (Foco em C# e Python)
+Web Stack: Especialização em ecossistema React e Node.js.
 
-Desenvolvimento Fullstack (Especializando em React e Node.js)
-
-Trabalho Colaborativo (Experiência em projetos em equipe e metodologias ágeis)
-
-Inovação & Soluções Digitais (Explorando novas tendências em eventos do setor)
+Soft Skills: Colaboração em equipe e metodologias ágeis em projetos reais.
 
 🏆 Projetos em Destaque
-Tô Aqui: Aplicativo voltado para o comércio em praias (Vendedor Ambulante).
+[!TIP]
+Confira alguns dos trabalhos que venho desenvolvendo:
 
-GreenPulse: Projeto focado em sustentabilidade e meio ambiente.
+Tô Aqui – App para gestão de vendas em praias (Ambulantes).
 
-Sofia: Meu chatbot personalizado para automação e interação.
+GreenPulse – Foco em soluções para sustentabilidade.
 
-Rota Livre: Solução desenvolvida para melhoria da mobilidade urbana.
+Sofia – Chatbot inteligente para automação.
 
-🌐 Conecte-se Comigo
-📧 Email: marceloalan555@gmail.com
+Rota Livre – Solução para mobilidade urbana.
 
-💼 LinkedIn: linkedin.com/in/marceloalan
+🌐 Vamos conversar?
+<p align="left">
+<a href="mailto:marceloalan555@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marceloalan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
 
 "Cada linha de código é um passo a mais na minha evolução como desenvolvedor."
